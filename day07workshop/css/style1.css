@@ -18,7 +18,7 @@ a:hover {
     width: 90px;
     margin-top: 10px;
     display: inline-block;
-    float: left;
+    float: none;
     padding: 4px;
 }
 
